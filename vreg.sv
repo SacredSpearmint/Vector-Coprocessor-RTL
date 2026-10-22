@@ -1,3 +1,5 @@
+`timescale 1ns/1ps
+
 module vreg #(
     parameter int ELEN     = 32,
     parameter int NUM_REGS = 8,
